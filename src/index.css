@@ -1,0 +1,5 @@
+input:focus {
+    outline: none;
+    box-shadow: none; /* Optional: removes any shadow that might be added on focus */
+    border: none;      /* Only if you also want to remove the border itself */
+  }
